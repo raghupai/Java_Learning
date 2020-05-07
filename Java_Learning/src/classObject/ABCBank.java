@@ -1,4 +1,4 @@
-package Day1;
+package classObject;
 
 class ABCBank{
 	int phone;

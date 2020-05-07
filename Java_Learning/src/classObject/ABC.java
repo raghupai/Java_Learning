@@ -1,4 +1,4 @@
-package Day1;
+package classObject;
 
 public class ABC{
 	private static void main(String args[]){
